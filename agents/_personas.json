@@ -1,0 +1,23 @@
+[
+  {
+    "slug": "the-ascii-dungeon",
+    "name": "The ASCII Dungeon",
+    "epithet": "you are the @ · natural",
+    "emergence": "natural",
+    "moniker": "⟦The ASCII Dungeon:RGU:d139d4⟧"
+  },
+  {
+    "slug": "procedural-generation",
+    "name": "Procedural Generation",
+    "epithet": "a new maze every game · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦Procedural Generation:RGU:c08f89⟧"
+  },
+  {
+    "slug": "permadeath",
+    "name": "Permadeath",
+    "epithet": "one life, no take-backs · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦Permadeath:RGU:781010⟧"
+  }
+]

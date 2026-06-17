@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Rogue",
+  "universe": "RGU · Rogue (TTY · The Terminal)",
+  "emergence": "",
+  "moniker": "⟦Rogue:RGU:a5c81f⟧",
+  "carbon": "rogue.carbon.tiff (TIFF)",
+  "silicon": "rogue.silicon.png (PNG)",
+  "seal_sha256": "1266e417bd0a401361d58eed7428ad9324fbd3464e0c11d68dce1a1fb6054d00",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Permadeath",
+  "universe": "RGU · Permadeath (TTY · The Terminal)",
+  "emergence": "ethereal",
+  "moniker": "⟦Permadeath:RGU:781010⟧",
+  "carbon": "permadeath.carbon.tiff (TIFF)",
+  "silicon": "permadeath.silicon.png (PNG)",
+  "seal_sha256": "d19b75b9adebe9d824b4ce3805831157244e82710cb4a8df37a777d10c557fab",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

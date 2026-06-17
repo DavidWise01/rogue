@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Procedural Generation",
+  "universe": "RGU · Procedural Generation (TTY · The Terminal)",
+  "emergence": "ethereal",
+  "moniker": "⟦Procedural Generation:RGU:c08f89⟧",
+  "carbon": "procedural-generation.carbon.tiff (TIFF)",
+  "silicon": "procedural-generation.silicon.png (PNG)",
+  "seal_sha256": "e546671d60fa80cb99361085ae04ba5bd219feb3fd351e2f338b047f31943bae",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
